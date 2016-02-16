@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deplutarchimora00filogoog_0007.png"; bbox 0 0 3768 5866; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 564 2464 1642 2609">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 564 2464 1642 2609">
+     <span class='ocr_line' id='line_1_1' title="bbox 564 2464 1642 2537; baseline 0.002 -17"><span class='ocrx_word' id='word_1_1' title='bbox 564 2466 690 2520; x_wconf 67' lang='lat' dir='ltr'><strong>&amp;omn</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 707 2465 865 2534; x_wconf 70' lang='lat' dir='ltr'><strong>{upum</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 883 2483 899 2520; x_wconf 77' lang='grc' dir='ltr'><strong>ο</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 915 2467 1000 2519; x_wconf 73' lang='lat' dir='ltr'><strong>‘rouo</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1017 2464 1081 2521; x_wconf 63' lang='lat'><strong>1121</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1099 2466 1325 2520; x_wconf 67' lang='lat' dir='ltr'>Dimum</span> <span class='ocrx_word' id='word_1_7' title='bbox 1343 2467 1522 2537; x_wconf 62' lang='lat' dir='ltr'><strong>phuolqm</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1538 2467 1642 2522; x_wconf 67' lang='lat' dir='ltr'><strong>(Mn</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 825 2554 1382 2609; baseline -0.002 0"><span class='ocrx_word' id='word_1_9' title='bbox 825 2555 988 2609; x_wconf 62' lang='lat' dir='ltr'><strong>ledonis·</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1005 2556 1171 2608; x_wconf 69' lang='lat' dir='ltr'><strong>littorum</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1187 2554 1382 2608; x_wconf 72' lang='grc' dir='ltr'><strong>Οιιωνίωιίι.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 876 3120 1335 3581">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 876 3120 1335 3581">
+     <span class='ocr_line' id='line_1_3' title="bbox 937 3120 1335 3299; baseline 0.043 -32"><span class='ocrx_word' id='word_1_12' title='bbox 937 3120 1335 3299; x_wconf 54' lang='lat' dir='ltr'><strong>mm,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 876 3390 1052 3581; baseline 0.091 -41"><span class='ocrx_word' id='word_1_13' title='bbox 876 3390 1052 3581; x_wconf 48' lang='lat' dir='ltr'><strong>wig</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1888 5860">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1888 5860">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1888 5860; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1888 5860; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
